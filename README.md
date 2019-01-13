@@ -23,4 +23,4 @@ The Three Pillars of  writing good HTML and CSS in your website
 - Less code
 - Compress code
 - Use a CSS preprocessor
-- Less iamges
+- Less images
