@@ -16,7 +16,7 @@ The Three Pillars of  writing good HTML and CSS code
  - Resusable
  - How to organize files
  - How to name classes
- - Ho to structure HTML
+ - How to structure HTML
  
 ## Web Perfomance
 - Less HTTP requests
